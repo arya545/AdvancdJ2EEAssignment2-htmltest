@@ -1,0 +1,23 @@
+h1
+{
+	text-align : center;
+	color: back;
+	font-size: 40px;
+}
+ol.a
+{
+	list-style-type: lower-alpha;
+	padding: 10px 30px 50px 50px;
+	font-weight : bold;
+    
+}
+ul.c
+{
+	list-style-type: square;
+}
+li.b
+{
+	padding: 2px;
+	
+
+}
